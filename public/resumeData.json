@@ -98,74 +98,26 @@
       {
         "title":"Find-A-Doc",
         "category":"Appointment Scheduling App for Doctors and Patients",
-        "image":"01.jpg",
+        "image":"findadoc.JPG",
         "url":"https://find-a-doc.herokuapp.com/login"
       },
       {
         "title":"Movies You Will Love",
         "category":"A movie finding application",
-        "image":"02.jpg",
+        "image":"Capture.jpg",
         "url":"https://itzhefe.github.io/Movies-you-will-love/"
       },
       {
         "title":"E-Commerce Back End",
         "category":"DB routing for a online store",
-        "image":"03.jpg",
+        "image":"GitHub-Logo.png",
         "url":"https://github.com/ItzHefe/ORM-E-Commerce-Back-End"
       },
       {
         "title":"SQL Employee Tracker",
         "category":"A team management system for businesses of all sizes",
-        "image":"04.jpg",
+        "image":"GitHub-Logo.png",
         "url":"https://github.com/ItzHefe/SQL-Employee-Tracker"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
