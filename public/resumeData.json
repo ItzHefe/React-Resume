@@ -4,7 +4,7 @@
     "description":"I am a web development engineer and I am learning and becoming proficient in React, Node.js, NoSQL, and Express.js",
     "image":"95719866.jpg",
     "bio":"I am a friendly giant from Atlanta who currently works as an account manager and is aspiring to bridge the gap between developers and sales teams! I spend my down time hanging out with my two dogs Mac and Fynn, hanging out with my girlfriend, and gaming. I have spent the last six years working across different sales roles involving technology and relationships. I started with at Gartner the worlds number one IT advisory firm. I worked directly with technology vendors and helping them market themselves to IT departments. After Gartner, I wanted to move back to my home city of Atlanta and work in the software world. I took an account executive role with a data visualization organization called Izenda. Their solution embedded into other applications and pulled data directly from NoSQL databases to display user friendly visualizations. This role ended up leading me to my current company called GreenSky. I currently work with home improvement contractors and help them use technology to offer point of sales financing solutions to their clients.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"For any question please reach out below or send me an email!",
     "email": "jeffrey.jarvis32@gmail.com",
     "phone": "678-602-2673",
     "github":"https://github.com/ItzHefe",
@@ -96,28 +96,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Find-A-Doc",
+        "category":"Appointment Scheduling App for Doctors and Patients",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://find-a-doc.herokuapp.com/login"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Movies You Will Love",
+        "category":"A movie finding application",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://itzhefe.github.io/Movies-you-will-love/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"E-Commerce Back End",
+        "category":"DB routing for a online store",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/ItzHefe/ORM-E-Commerce-Back-End"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"SQL Employee Tracker",
+        "category":"A team management system for businesses of all sizes",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/ItzHefe/SQL-Employee-Tracker"
       },
       {
         "title":"Smirkspace",
