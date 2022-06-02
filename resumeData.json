@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name":"Jeff Jarvis",
+    "description":"I am a web development engineer and I am learning and becoming proficient in React, Node.js, NoSQL, and Express.js",
+    "image":"95719866.jpg",
+    "bio":"I am a friendly giant from Atlanta who currently works as an account manager and is aspiring to bridge the gap between developers and sales teams! I spend my down time hanging out with my two dogs Mac and Fynn, hanging out with my girlfriend, and gaming. I have spent the last six years working across different sales roles involving technology and relationships. I started with at Gartner the worlds number one IT advisory firm. I worked directly with technology vendors and helping them market themselves to IT departments. After Gartner, I wanted to move back to my home city of Atlanta and work in the software world. I took an account executive role with a data visualization organization called Izenda. Their solution embedded into other applications and pulled data directly from NoSQL databases to display user friendly visualizations. This role ended up leading me to my current company called GreenSky. I currently work with home improvement contractors and help them use technology to offer point of sales financing solutions to their clients.",
+    "contactmessage":"For any question please reach out below or send me an email!",
+    "email": "jeffrey.jarvis32@gmail.com",
+    "phone": "678-602-2673",
+    "github":"https://github.com/ItzHefe",
+    "project":"https://github.com/ItzHefe/React-Resume",
+    "address":{
+      "city":"Marietta",
+      "state":"Georgia"
+    },
+    "resumedownload":"https://itzhefe.github.io/Jeff-Jarvis-Portfolio/Assets/Images/Jeff%20Jarvis%20Resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"linkedin.com/in/jeffrey-jarvis-86b474105",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ItzHefe",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am a sales professional who has spent the last 7 years working complex sales cycles with C-level executives. I am aspiring to work more with product teams honing my software development skills. I will effectively engage with product and sales teams to bridge the gap and ensure business goals are maximized.",
+    "education":[
+      {
+        "school":"Kennesaw State University",
+        "degree":"Bachelor of Business Administration, Professional Sales",
+        "graduated":"December 2015"
+      },
+      {
+        "school":"Georgia Institute of Technology",
+        "degree":"Software Development Bootcamp",
+        "graduated":"June 2022",
+        "description":"A 24-week web coding bootcamp. A virtual classroom environment and collaboration with classmates, and gained hands on experience in full-stack web development."
+      }
+    ],
+    "work":[
+      {
+        "company":"GreenSky",
+        "title":"Client Growth Manager - Enterprise",
+        "years":"June 2018 - Present",
+        "description":"Strategizing with owners, sales managers, and sales teams to drive growth for their businesses"
+      },
+      {
+        "company":"Izenda",
+        "title":"Account Executive",
+        "years":"June 2017 - June 2019",
+        "description":"Navigated highly technical sales cycles working with all aspects of prospecting accounts including executive management, developer teams, and product teams"
+      },
+      {
+        "company":"Gartner",
+        "title":"Account Executive - High Tech",
+        "years":"Jan 2016 - June 2017",
+        "description":"Prospected new customers through cold calling, email communications, social media networking, and in-person meetings, achieving 156% of quota in nine months"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"jQuery",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"90%"
+      },
+      {
+        "name":"JS",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Find-A-Doc",
+        "category":"Appointment Scheduling App for Doctors and Patients",
+        "image":"findadoc.JPG",
+        "url":"https://find-a-doc.herokuapp.com/login"
+      },
+      {
+        "title":"Movies You Will Love",
+        "category":"A movie finding application",
+        "image":"Capture.jpg",
+        "url":"https://itzhefe.github.io/Movies-you-will-love/"
+      },
+      {
+        "title":"E-Commerce Back End",
+        "category":"DB routing for a online store",
+        "image":"GitHub-Logo.png",
+        "url":"https://github.com/ItzHefe/ORM-E-Commerce-Back-End"
+      },
+      {
+        "title":"SQL Employee Tracker",
+        "category":"A team management system for businesses of all sizes",
+        "image":"GitHub-Logo.png",
+        "url":"https://github.com/ItzHefe/SQL-Employee-Tracker"
+      }
+    ]
+  }
+}
